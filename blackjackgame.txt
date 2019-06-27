@@ -1,6 +1,6 @@
 <<<<<<<<<<<<Javascript>>>>>>>>>>>>>
 
-// Code goes here
+// Code goes here 1
 
 let suits = ['Hearts', 'Clubs', 'Diamonds', 'Spades'];
 let values = ['Ace', 'King', 'Queen', 'Jack',
