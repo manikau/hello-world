@@ -1,6 +1,6 @@
 <<<<<<<<<<<<Javascript>>>>>>>>>>>>>
 
-// Code goes here 1
+// Code goes here 1  this is sample card game
 
 let suits = ['Hearts', 'Clubs', 'Diamonds', 'Spades'];
 let values = ['Ace', 'King', 'Queen', 'Jack',
